@@ -37,7 +37,7 @@ const NavBar = () => {
         <div>
 
             <div className='logo-area mt-3' onClick={goToHome}>
-                <img width={200} src='/images/purpleimg.png' />
+                <img width={150} src='/images/purplecolor.jpg' />
             </div>
             <div className='menu-area'>
                 <ul className='menu-list'>
